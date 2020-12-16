@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: da9b66f150229cf40a4b9d7b5a4beb05
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: graps1
+    100004: graps10
+    100006: graps11
+    100008: graps12
+    100010: graps13
+    100012: graps14
+    100014: graps15
+    100016: graps2
+    100018: graps3
+    100020: graps4
+    100022: graps5
+    100024: graps6
+    100026: graps7
+    100028: graps8
+    100030: graps9
+    100032: leaves
+    100034: group
+    100036: posa_graps
+    100038: posa_graps1
+    100040: posa_graps2
+    100042: posa_graps3
+    400000: //RootNode
+    400002: graps1
+    400004: graps10
+    400006: graps11
+    400008: graps12
+    400010: graps13
+    400012: graps14
+    400014: graps15
+    400016: graps2
+    400018: graps3
+    400020: graps4
+    400022: graps5
+    400024: graps6
+    400026: graps7
+    400028: graps8
+    400030: graps9
+    400032: leaves
+    400034: group
+    400036: posa_graps
+    400038: posa_graps1
+    400040: posa_graps2
+    400042: posa_graps3
+    2100000: lambert5
+    2100002: pasted__lambert11
+    2300000: //RootNode
+    2300002: graps10
+    2300004: graps11
+    2300006: graps12
+    2300008: graps13
+    2300010: graps14
+    2300012: graps15
+    2300014: graps2
+    2300016: graps3
+    2300018: graps4
+    2300020: graps5
+    2300022: graps6
+    2300024: graps7
+    2300026: graps8
+    2300028: graps9
+    2300030: leaves
+    2300032: posa_graps
+    2300034: posa_graps1
+    2300036: posa_graps2
+    2300038: posa_graps3
+    3300000: //RootNode
+    3300002: graps10
+    3300004: graps11
+    3300006: graps12
+    3300008: graps13
+    3300010: graps14
+    3300012: graps15
+    3300014: graps2
+    3300016: graps3
+    3300018: graps4
+    3300020: graps5
+    3300022: graps6
+    3300024: graps7
+    3300026: graps8
+    3300028: graps9
+    3300030: leaves
+    3300032: posa_graps
+    3300034: posa_graps1
+    3300036: posa_graps2
+    3300038: posa_graps3
+    4300000: graps_tree
+    4300002: graps3
+    4300004: graps4
+    4300006: graps5
+    4300008: graps6
+    4300010: graps7
+    4300012: graps8
+    4300014: graps9
+    4300016: graps10
+    4300018: graps11
+    4300020: graps12
+    4300022: graps13
+    4300024: graps14
+    4300026: graps15
+    4300028: graps2
+    4300030: branch
+    4300032: leaves
+    4300034: posa_graps1
+    4300036: posa_graps2
+    4300038: posa_graps3
+    4300040: posa_graps
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: 8d3bdb2131d920c419d6b905f98b33e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: 4191ebe176a61b64bb08bf9192d5f6eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert11
+    second: {fileID: 2100000, guid: 315787aeb537e604b9885b8068f6db3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert29
+    second: {fileID: 2100000, guid: 3d16df2f762bdde4a8df16ecd1a69afa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: a95029afea103604fb6eca52a33d04e1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: branch1
+    100002: branch2
+    100004: branch3
+    100006: graps
+    100008: graps 1
+    100010: //RootNode
+    100012: graps1
+    100014: graps10
+    100016: graps11
+    100018: graps2
+    100020: graps3
+    100022: graps4
+    100024: graps5
+    100026: graps6
+    100028: graps7
+    100030: graps8
+    100032: graps9
+    100034: leaves
+    100036: leaves1
+    100038: leaves2
+    400000: branch1
+    400002: branch2
+    400004: branch3
+    400006: graps
+    400008: graps 1
+    400010: //RootNode
+    400012: graps1
+    400014: graps10
+    400016: graps11
+    400018: graps2
+    400020: graps3
+    400022: graps4
+    400024: graps5
+    400026: graps6
+    400028: graps7
+    400030: graps8
+    400032: graps9
+    400034: leaves
+    400036: leaves1
+    400038: leaves2
+    2100000: lambert1
+    2100002: test_leaf_adult1
+    2100004: test_leaf_young1
+    2100006: lambert4
+    2100008: pasted__lambert11
+    2300000: branch1
+    2300002: branch2
+    2300004: branch3
+    2300006: graps 1
+    2300008: //RootNode
+    2300010: graps1
+    2300012: graps10
+    2300014: graps11
+    2300016: graps2
+    2300018: graps3
+    2300020: graps4
+    2300022: graps5
+    2300024: graps6
+    2300026: graps7
+    2300028: graps8
+    2300030: graps9
+    2300032: leaves
+    2300034: leaves1
+    2300036: leaves2
+    3300000: branch1
+    3300002: branch2
+    3300004: branch3
+    3300006: graps 1
+    3300008: //RootNode
+    3300010: graps1
+    3300012: graps10
+    3300014: graps11
+    3300016: graps2
+    3300018: graps3
+    3300020: graps4
+    3300022: graps5
+    3300024: graps6
+    3300026: graps7
+    3300028: graps8
+    3300030: graps9
+    3300032: leaves
+    3300034: leaves1
+    3300036: leaves2
+    4300000: tree_brk
+    4300002: leaves
+    4300004: leaves1
+    4300006: leaves2
+    4300008: branch1
+    4300010: branch2
+    4300012: branch3
+    4300014: graps
+    4300016: graps1
+    4300018: graps2
+    4300020: graps3
+    4300022: graps4
+    4300024: graps5
+    4300026: graps6
+    4300028: graps7
+    4300030: graps8
+    4300032: graps9
+    4300034: graps10
+    4300036: graps11
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

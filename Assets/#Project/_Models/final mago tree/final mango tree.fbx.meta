@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: e81cff36c6969bd42b1b49ffb3e7ad3a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _Mango6
+    100002: //RootNode
+    100004: kacha_amm_mango1
+    100006: kacha_amm_mango1 1
+    100008: kacha_amm_mango2
+    100010: kacha_amm_mango3
+    100012: kacha_amm_mango4
+    100014: kacha_amm_mango5
+    100016: Mango1
+    100018: Mango1 1
+    100020: Mango2
+    100022: Mango3
+    100024: Mango4
+    100026: Mango5
+    100028: Mango7
+    100030: Mango8
+    100032: Object11
+    100034: posa_amm
+    100036: posa_mango1
+    100038: posa_mango2
+    100040: posa_mango3
+    100042: posa_mango4
+    100044: posa_mango5
+    400000: _Mango6
+    400002: //RootNode
+    400004: kacha_amm_mango1
+    400006: kacha_amm_mango1 1
+    400008: kacha_amm_mango2
+    400010: kacha_amm_mango3
+    400012: kacha_amm_mango4
+    400014: kacha_amm_mango5
+    400016: Mango1
+    400018: Mango1 1
+    400020: Mango2
+    400022: Mango3
+    400024: Mango4
+    400026: Mango5
+    400028: Mango7
+    400030: Mango8
+    400032: Object11
+    400034: posa_amm
+    400036: posa_mango1
+    400038: posa_mango2
+    400040: posa_mango3
+    400042: posa_mango4
+    400044: posa_mango5
+    2100000: 'Material #2100450613'
+    2100002: 'Material #2100450615'
+    2100004: 'Material #2100450614'
+    2100006: _f1wire_115115115aa88
+    2100008: _f1wire_115115115aa
+    2100010: 'Material #2100450616'
+    2100012: pasted__green_mango_cut_A2
+    2100014: pasted__green_mango_cut_A3
+    2100016: pasted__lambert7
+    2300000: _Mango6
+    2300002: //RootNode
+    2300004: kacha_amm_mango1 1
+    2300006: kacha_amm_mango2
+    2300008: kacha_amm_mango3
+    2300010: kacha_amm_mango4
+    2300012: kacha_amm_mango5
+    2300014: Mango1 1
+    2300016: Mango2
+    2300018: Mango3
+    2300020: Mango4
+    2300022: Mango5
+    2300024: Mango7
+    2300026: Mango8
+    2300028: Object11
+    2300030: posa_mango1
+    2300032: posa_mango2
+    2300034: posa_mango3
+    2300036: posa_mango4
+    2300038: posa_mango5
+    3300000: _Mango6
+    3300002: //RootNode
+    3300004: kacha_amm_mango1 1
+    3300006: kacha_amm_mango2
+    3300008: kacha_amm_mango3
+    3300010: kacha_amm_mango4
+    3300012: kacha_amm_mango5
+    3300014: Mango1 1
+    3300016: Mango2
+    3300018: Mango3
+    3300020: Mango4
+    3300022: Mango5
+    3300024: Mango7
+    3300026: Mango8
+    3300028: Object11
+    3300030: posa_mango1
+    3300032: posa_mango2
+    3300034: posa_mango3
+    3300036: posa_mango4
+    3300038: posa_mango5
+    4300000: Object012
+    4300002: Object11
+    4300004: kacha_amm_mango1
+    4300006: kacha_amm_mango2
+    4300008: kacha_amm_mango3
+    4300010: kacha_amm_mango4
+    4300012: kacha_amm_mango5
+    4300014: posa_mango1
+    4300016: posa_mango2
+    4300018: posa_mango3
+    4300020: posa_mango4
+    4300022: posa_mango5
+    4300024: Mango1
+    4300026: Mango2
+    4300028: Mango3
+    4300030: Mango4
+    4300032: Mango5
+    4300034: _Mango6
+    4300036: Mango7
+    4300038: Mango8
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
